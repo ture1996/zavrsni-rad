@@ -1,0 +1,7 @@
+{
+    "baseUrl" : "https://gradebook.vivifyideas.com/",
+    "env": {
+        "validPassword":"ture1996",
+        "validEmail": "ture@gmail.com"
+    }
+}
